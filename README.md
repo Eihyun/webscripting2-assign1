@@ -1,8 +1,5 @@
-# React + Vite
+This is a single page website created for Web Scripting 2 class assignment.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:
+Create a one-page website for a fictional store using React.js, incorporating at least three levels of components and demonstrate an understanding of state management, styling, and component hierarchy.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
